@@ -1,0 +1,204 @@
+﻿ID - A key used to identify which subject conducted the test.
+
+
+Activity - The activity that was performed as part of the test.
+
+
+tBodyAcc-mean()-X - The mean value of the measurements along the X-axis of the Body Acceleration signal.
+
+
+tBodyAcc-mean()-Y - The mean value of the measurements along the Y-axis of the Body Acceleration signal.
+
+
+tBodyAcc-mean()-Z - The mean value of the measurements along the Z-axis of the Body Acceleration signal.
+
+
+tBodyAcc-std()-X - The standard deviation of the measurements along the X-axis of the Body Acceleration signal.
+
+
+tBodyAcc-std()-Y - The standard deviation of the measurements along the Y-axis of the Body Acceleration signal.
+
+
+tBodyAcc-std()-Z - The standard deviation of the measurements along the Z-axis of the Body Acceleration signal.
+
+
+tGravityAcc-mean()-X - The mean value of the measurements along the X-axis of the Gravity Acceleration signal.
+
+
+tGravityAcc-mean()-Y - The mean value of the measurements along the Y-axis of the Gravity Acceleration signal.
+
+
+tGravityAcc-mean()-Z - The mean value of the measurements along the Z-axis of the Gravity Acceleration signal.
+
+
+tGravityAcc-std()-X - The standard deviation of the measurements along the X-axis of the Gravity Acceleration signal.
+
+
+tGravityAcc-std()-Y - The standard deviation of the measurements along the Y-axis of the Gravity Acceleration signal.
+
+
+tGravityAcc-std()-Z - The standard deviation of the measurements along the Z-axis of the Gravity Acceleration signal.
+
+
+tBodyAccJerk-mean()-X - The mean value of the measurements along the X-axis of the Linear Acceleration of the body.
+
+
+tBodyAccJerk-mean()-Y - The mean value of the measurements along the Y-axis of the Linear Acceleration of the body.
+
+
+tBodyAccJerk-mean()-Z - The mean value of the measurements along the Z-axis of the Linear Acceleration of the body.
+
+
+tBodyAccJerk-std()-X - The standard deviation of the measurements along the X-axis of the Linear Acceleration of the body.
+
+
+tBodyAccJerk-std()-Y - The standard deviation of the measurements along the Y-axis of the Linear Acceleration of the body.
+
+
+tBodyAccJerk-std()-Z - The standard deviation of the measurements along the Z-axis of the Linear Acceleration of the body.
+
+
+tBodyGyro-mean()-X - The mean value of the measurements along the X-axis of the value of the Gyroscope.
+
+
+tBodyGyro-mean()-Y - The mean value of the measurements along the Y-axis of the value of the Gyroscope.
+
+
+tBodyGyro-mean()-Z - The mean value of the measurements along the Z-axis of the value of the Gyroscope.
+
+
+tBodyGyro-std()-X - The standard deviation of the measurements along the X-axis of the value of the Gyroscope.
+
+
+tBodyGyro-std()-Y - The standard deviation of the measurements along the Y-axis of the value of the Gyroscope.
+
+
+tBodyGyro-std()-Z - The standard deviation of the measurements along the Z-axis of the value of the Gyroscope.
+
+
+tBodyGyroJerk-mean()-X - The mean value of the measurements along the X-axis of the Angular Velocity of the body.
+
+
+tBodyGyroJerk-mean()-Y - The mean value of the measurements along the Y-axis of the Angular Velocity of the body.
+
+
+tBodyGyroJerk-mean()-Z - The mean value of the measurements along the Z-axis of the Angular Velocity of the body.
+
+
+tBodyGyroJerk-std()-X - The standard deviation of the measurements along the X-axis of the 
+Angular Velocity of the body.
+
+
+tBodyGyroJerk-std()-Y - The standard deviation of the measurements along the Y-axis of the 
+Angular Velocity of the body.
+
+
+tBodyGyroJerk-std()-Z - The standard deviation of the measurements along the Z-axis of the Angular Velocity of the body.
+
+
+tBodyAccMag-mean() - The mean value of the magnitude of the body’s acceleration.
+
+
+tBodyAccMag-std() - The standard deviation of the magnitude of the body’s acceleration.
+
+
+tGravityAccMag-mean() - The mean value of the magnitude of the gravitational acceleration.
+
+
+tGravityAccMag-std() - The standard deviation of the magnitude of the gravitational acceleration.
+
+
+tBodyAccJerkMag-mean() - The mean value of the magnitude of the linear acceleration.
+
+
+tBodyAccJerkMag-std() - The standard deviation of the magnitude of the linear acceleration.
+
+
+tBodyGyroMag-mean() - The mean value of the magnitude of the Gyroscopes value.
+
+
+tBodyGyroMag-std() - The standard deviation of the magnitude of the Gyroscopes value.
+
+
+tBodyGyroJerkMag-mean() - The mean value of the magnitude of the body’s angular velocity.
+
+
+tBodyGyroJerkMag-std() - The standard deviation of the magnitude of the body’s angular velocity.
+
+
+fBodyAcc-mean()-X - A transformed value of the tBodyAcc-mean()-X using the Fast Fourier Transform method.
+
+
+fBodyAcc-mean()-Y - A transformed value of the tBodyAcc-mean()-Y using the Fast Fourier Transform method.
+
+
+fBodyAcc-mean()-Z - A transformed value of the tBodyAcc-mean()-Z using the Fast Fourier Transform method.
+
+
+fBodyAcc-std()-X - A transformed value of the tBodyAcc-std()-X using the Fast Fourier Transform method.
+
+
+fBodyAcc-std()-Y - A transformed value of the tBodyAcc-std()-Y using the Fast Fourier Transform method.
+
+
+fBodyAcc-std()-Z - A transformed value of the tBodyAcc-std()-Z using the Fast Fourier Transform method.
+
+
+fBodyAccJerk-mean()-X - A transformed value of the tBodyAccJerk-mean()-X using the Fast Fourier Transform method.
+
+
+fBodyAccJerk-mean()-Y - A transformed value of the tBodyAccJerk-mean()-Y using the Fast Fourier Transform method.
+
+
+fBodyAccJerk-mean()-Z - A transformed value of the tBodyAccJerk-mean()-Z using the Fast Fourier Transform method.
+
+
+fBodyAccJerk-std()-X - A transformed value of the tBodyAccJerk-std()-X using the Fast Fourier Transform method.
+
+
+fBodyAccJerk-std()-Y - A transformed value of the tBodyAccJerk-std()-Y using the Fast Fourier Transform method.
+
+
+fBodyAccJerk-std()-Z - A transformed value of the tBodyAccJerk-std()-Z using the Fast Fourier Transform method.
+
+
+fBodyGyro-mean()-X - A transformed value of the tBodyGyro-mean()-X using the Fast Fourier Transform method.
+
+
+fBodyGyro-mean()-Y - A transformed value of the tBodyGyro-mean()-Y using the Fast Fourier Transform method.
+
+
+fBodyGyro-mean()-Z - A transformed value of the tBodyGyro-mean()-Z using the Fast Fourier Transform method.
+
+
+fBodyGyro-std()-X - A transformed value of the tBodyGyro-std()-X using the Fast Fourier Transform method.
+
+
+fBodyGyro-std()-Y - A transformed value of the tBodyGyro-std()-Y using the Fast Fourier Transform method.
+
+
+fBodyGyro-std()-Z - A transformed value of the tBodyGyro-std()-Z using the Fast Fourier Transform method.
+
+
+fBodyAccMag-mean() - A transformed value of the tBodyAccMag-mean() using the Fast Fourier Transform method.
+
+
+fBodyAccMag-std() - A transformed value of the tBodyAccMag-std() using the Fast Fourier Transform method.
+
+
+fBodyBodyAccJerkMag-mean() - A transformed value of the tBodyAccJerkMag-mean() using the Fast Fourier Transform method.
+
+
+fBodyBodyAccJerkMag-std() - A transformed value of the tBodyAccJerkMag-std() using the Fast Fourier Transform method.
+
+
+fBodyBodyGyroMag-mean() - A transformed value of the tBodyGyroMag-mean() using the Fast Fourier Transform method.
+
+
+fBodyBodyGyroMag-std() - A transformed value of the tBodyGyroMag-std() using the Fast Fourier Transform method.
+
+
+fBodyBodyGyroJerkMag-mean() - A transformed value of the tBodyGyroJerkMag-mean() using the Fast Fourier Transform method.
+
+
+fBodyBodyGyroJerkMag-std() - A transformed value of the tBodyGyroJerkMag-std() using the Fast Fourier Transform method.
